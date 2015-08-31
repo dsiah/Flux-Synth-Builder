@@ -1,0 +1,5 @@
+module.exports = {
+	ADD_SYNTH: 'ADD_SYNTH',
+	REMOVE_SYNTH: 'REMOVE_SYNTH',
+	PLAY_SYNTH: 'PLAY_SYNTH'
+}
